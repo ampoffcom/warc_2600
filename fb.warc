@@ -1,0 +1,38 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 1999-09-17T21:19:30.116770
+WARC-Filename: fb.warc
+WARC-Record-ID: <urn:uuid:ba6db02e-c852-4737-be6e-8f6c4a4a8aaf>
+Content-Type: application/warc-fields
+Content-Length: 219
+
+software: html2warc http://hub.darcs.net/ampoffcom/html2warc
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+description: warc file created from offline data
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: facebook.com/index.html
+WARC-Record-ID: <urn:uuid:aa932115-d75b-4639-b24e-2fb1574c659b>
+WARC-Date: 1999-09-17T21:19:30.116770
+Content-Type: application/http;msgtype=response
+WARC-Identified-Payload-Type: text/html
+Content-Length: 224
+
+HTTP/1.1 200 OK
+DATE: 1999-09-17T21:19:30.116770
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+Content-Length: 79
+
+<html>
+<body>
+    One day, this page will be so cool. Reeeely!
+</body>
+</html>
+
+
